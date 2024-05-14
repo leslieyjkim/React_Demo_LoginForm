@@ -1,13 +1,60 @@
-#root {
+/* #root {
   max-width: 1280px;
   margin: 0 auto;
   padding: 2rem;
   text-align: center;
-}
+} */
 
 .Header {
-  background-color: #1c3fb0;
+  background-color: #2341a1;
   font-size: 3em;
   padding: 1em;
 
 }
+
+.App {
+  text-align: center;
+}
+
+
+.LoginFormBox {
+  background-color: rgba(36, 65, 105, 0.79);
+  padding : 1em;
+}
+
+.LoginFormHeader {
+  color:rgb(143, 173, 192);
+}
+
+/* App.css */
+.LoginFormInput {
+  display: flex;
+  flex-direction: column;
+  width: 300px; /* Adjust as needed */
+  margin: 0 auto; /* Center the form horizontally */
+}
+
+.form-group {
+  display: flex;
+  align-items: center;
+  margin-bottom: 15px; /* Space between the form groups */
+}
+
+.form-group label {
+  font-size: 20px;
+  margin-right: 10px;
+  width: 80px; /* Adjust based on your design */
+}
+
+.form-group input {
+  flex: 1;
+  padding: px;
+}
+
+button {
+  margin-top: 10px;
+  padding: 10px 15px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
