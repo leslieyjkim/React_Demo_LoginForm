@@ -1,6 +1,7 @@
 import './App.css';
 
-import ProductListItem from './components/ProductListItem'; 
+// import ProductListItem from './components/ProductListItem'; 
+import ProductList from './components/ProductList';
 
 
 function App() {
@@ -9,7 +10,8 @@ function App() {
     <>
       <div className="App">
         <h2 className="Header">I'm your React Demo App</h2>
-        <ProductListItem />
+        {/* <ProductListItem /> */}
+        <ProductList />
       </div>
     </>
   )
