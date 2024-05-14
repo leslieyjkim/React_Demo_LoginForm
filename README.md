@@ -1,3 +1,9 @@
+![Screenshot](https://raw.githubusercontent.com/leslieyjkim/React_Demo_LoginForm/b629cd8c616a19be73bdc5154a12004a9ab13b84/FullScreenApp.png)
+![Screenshot](https://raw.githubusercontent.com/leslieyjkim/React_Demo_LoginForm/b629cd8c616a19be73bdc5154a12004a9ab13b84/WithLoginType.png)
+![Screenshot](https://raw.githubusercontent.com/leslieyjkim/React_Demo_LoginForm/b629cd8c616a19be73bdc5154a12004a9ab13b84/AfterLoginPopUp.png)
+
+
+
 # W07D03 - React Developer Workflow (May 29th cohorts 2023 - Nally)
 
 ### To Do
