@@ -3,7 +3,7 @@
 ### To Do
 * [ ] Node Version and NVM
 * [ ] React DevTools
-* [ ] Building Components in Isolation
+* [ ] Building Components in Isolation : very maintainable!
   * [ ] Fragments
   * [ ] Styling with hardcoded values
   * [ ] Passing props
